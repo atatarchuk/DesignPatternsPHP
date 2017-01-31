@@ -15,6 +15,8 @@ To do this, you should install dependencies with `Composer` first:
 
 ### [optional] Using a Virtual Machine (VM)
 
+
+
 If you wish to use a ready made VM environment, you can easily create one with Vagrant and Ansible.
 
 ```bash
